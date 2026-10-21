@@ -27,6 +27,18 @@
 
 ---
 
+## 📸 Hình ảnh kết quả thực hành (Demo Screenshots)
+
+| 📱 Chế độ màn hình dọc (2 cột) | 🔄 Chế độ xoay ngang (4 cột) |
+| :---: | :---: |
+| ![Chế độ màn hình dọc](Pic1.png) | ![Chế độ xoay ngang](pic2.png) |
+
+> **Ghi chú minh chứng:**
+> - Ảnh 1 chứng minh: Spacing rõ ràng, FixedHeader cố định trên đỉnh, danh mục cuộn ngang, lưới sản phẩm 2 cột đều tăm tắp, hiển thị nhãn `📱 Màn hình dọc (2 cột)`.
+> - Ảnh 2 chứng minh: Ứng dụng tự động phát hiện xoay ngang màn hình, tự động thích ứng chuyển sang lưới 4 cột mượt mà, hiển thị nhãn `🔄 Chế độ xoay ngang (4 cột)`.
+
+---
+
 ## 📁 Cấu trúc thư mục dự án
 
 ```text
